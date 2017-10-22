@@ -5,16 +5,20 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(October 21, 2017
 
 ## Student Name:  
-(First and Last Name)
+(Tiffany Townsend)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was about version control and the GIT open source platform)
+
+## View Project:
+https://tiffany327.github.io/lesson3_VersionControl/
+
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version control systems are necessary in project development)
+2. (VCS and GIT provide a way for users to work collaboratively and simultaneously)
+3. (VCS provides a way to protect files from being overwritten)
 
